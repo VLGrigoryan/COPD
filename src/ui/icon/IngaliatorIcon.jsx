@@ -2,8 +2,8 @@ import React from "react";
 
 const IngaliatorIcon = () => (
   <svg
-    width="126"
-    height="106"
+    width="6.563vw"
+    height="5.521vw"
     viewBox="0 0 126 106"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"

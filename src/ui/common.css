@@ -99,8 +99,9 @@ body {
 
 .text_type_main-default {
 	font-family: 'Noto Sans';
-	font-size: 24px;
-	line-height: 32.69px;
+	font-size: 1.25vw;
+	line-height: 1.703vw;
+	font-weight: 400;
 	font-weight: 400;
 }
 
@@ -124,8 +125,8 @@ body {
 .text_type_main-medium {
 	font-family: 'Noto Sans';
 	font-weight: bold;
-	font-size: 28px;
-	line-height: 38.14px;
+	font-size: 1.458vw;
+    line-height: 1.986vw;
 	font-weight: 700;
 	text-align: center;
 }
@@ -134,8 +135,8 @@ body {
 	font-family: 'Noto Sans';
 	font-style: normal;
 	font-weight: 700;
-	font-size: 48px;
-	line-height: 65px;
+	font-size: 2.5vw;
+	line-height: 3.385vw;
 	text-align: center;
 }
 
@@ -162,8 +163,8 @@ body {
 	font-family: 'Noto Sans';
 	font-style: normal;
 	font-weight: 400;
-	font-size: 24px;
-	line-height: 33px;
+	font-size: 1.25vw;
+	line-height: 1.719vw;
 }
 
 .text_type_digits-medium {

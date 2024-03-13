@@ -2,8 +2,8 @@ import React from "react";
 
 const ZigzagArrowIcon = () => (
   <svg
-    width="45"
-    height="46"
+    width="2.344vw"
+    height="2.396vw"
     viewBox="0 0 45 46"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"

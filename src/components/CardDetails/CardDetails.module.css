@@ -30,9 +30,9 @@
 .card {
   background-color: var(--small-card-background);
   width: 100%;
-  max-height: 468px;
+  max-height: 24.375vw;
   border-radius: 20px;
-  padding: 30px 0 30px 0;
+  padding: 1.563vw 0;
   gap: 15px;
   list-style-type: none;
   border-radius: 20px;
@@ -49,5 +49,4 @@
 .cardTitle {
   font-size: 5vw;
   line-height: 7.813vw;
-
 }

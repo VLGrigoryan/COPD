@@ -36,18 +36,13 @@
   left: 50%;
   width: 104%;
   height: 1.719vw;
-  border: 2px solid #01457A;
+  border: 0.104vw solid #01457A;
   border-top: 0;
 }
 
 .polygon {
-  border-right: 30px solid var(--text-primary-color);
-  border-top: 30px solid transparent;
-  transform: rotate(45deg);
-  position: absolute;
-  top: 52%;
-  border-right: 30px solid var(--text-primary-color);
-  border-top: 30px solid transparent;
+  border-right: 1.563vw solid var(--text-primary-color);
+  border-top: 1.563vw solid transparent;
   transform: rotate(45deg);
   position: absolute;
   top: 55%;
@@ -76,18 +71,18 @@
   color: var(--text-primary-color);
   width: 4.167vw;
   height: 4.167vw;
-  left: 214px;
-  top: 95px;
+  left: 11.146vw;
+  top: 4.948vw;
 }
 
 .icon {
   width: 4.167vw;
   height: 4.167vw;
-  margin-bottom: 25px;
+  margin-bottom: 1.302vw;
 }
 
 .tag {
-  margin-top: 55px;
+  margin-top: 2.865vw;
 }
 
 .title {

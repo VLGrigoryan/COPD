@@ -29,13 +29,13 @@
 }
 
 .arrow:before {
-  border-top: 50px solid transparent;
-  border-bottom: 65px solid transparent;
-  border-left: 45px solid var(--text-primary-color);
+  border-top: 2.604vw solid transparent;
+  border-bottom: 3.385vw solid transparent;
+  border-left: 2.344vw solid var(--text-primary-color);
 }
 
 .arrow:after {
-  border-top: 47px solid transparent;
-  border-bottom: 62px solid transparent;
-  border-left: 42px solid #d8efff;
+  border-top: 2.448vw solid transparent;
+  border-bottom: 3.229vw solid transparent;
+  border-left: 2.188vw solid #d8efff;
 }
