@@ -1,0 +1,31 @@
+.illistrationContent {
+    max-width: 1649px;
+}
+
+.coloring {
+    background-repeat: no-repeat;
+    display: flex;
+    position: absolute;
+    background-size: contain;
+}
+
+.lightBlue {
+    background-image: url(../../images/lightBlue.svg);
+    width: 65%;
+    height: 4.375vw;
+   
+}
+
+.green {
+    background-image: url(../../images/green.svg);
+    width: 48.75%;
+    height: 3.594vw;
+    left: 28%;
+}
+
+.orange {
+    background-image: url(../../images/orange.svg);
+    width: 54%;
+    height: 67px;
+    left: 32%;
+ }

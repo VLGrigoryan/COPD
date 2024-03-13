@@ -1,0 +1,89 @@
+.section {
+  display: flex;
+  min-height: 912px;
+  background-color: white;
+  max-width: 1380px;
+  justify-content: space-between;
+  margin: 6.354vw auto;
+  width: calc(78% - 60px);
+  background-repeat: no-repeat;
+  padding: 1.042vw 0 2.344vw 2.344vw;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  background-repeat: no-repeat;
+  width: 69.5vw;
+  justify-content: flex-start;
+}
+
+.title {
+  margin: 0px;
+  padding: 0.938vw 0px 4.583vw;
+  background-image: url(http://localhost:3000/copd/static/media/pageBackground.9871147….svg);
+  background-size: 96.5%;
+  background-repeat: no-repeat;
+}
+
+
+.cardList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  list-style-type: none;
+  padding: 0;
+  row-gap: 80px;
+  max-width: 97%;
+}
+
+
+
+.tabs {
+  display: flex;
+}
+
+.rowCardText {
+  width: 200px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.rowCardTextContainer {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  -webkit-line-clamp: 3;
+  width: 38.911vw;
+  height: 5.156vw;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #FFFFFF 100%);
+
+}
+
+.icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  width: 4.167vw;
+  height: 4.167vw;
+  background: var(--icon-background);
+  border-radius: var(--icon-drop-radius);
+  margin-right: 1.47vw;
+}
+
+.subTitle {
+  background: var(--icon-background);
+  padding: 1.302vw 4.2vw;
+  border-radius: 1.042vw;
+  letter-spacing: 0.016vw;
+  margin-right: 2.287vw;
+  margin-top: -0.5vw;
+}
+
+.heading {
+  text-align: center;
+}

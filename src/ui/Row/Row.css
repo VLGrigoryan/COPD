@@ -1,0 +1,23 @@
+.row {
+  display: flex;
+  width: 67.2vw;
+  display: flex;
+  flex-direction: row;
+  padding: 2.083vw 1.51vw 2.083vw 1.979vw;
+  height: 10.182vw;
+  background: #FFFFFF;
+  border: 1px solid var(--text-primary-color);
+  box-shadow: 0px 0px 25px rgba(142, 160, 173, 0.35);
+  border-radius: 20px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  cursor: pointer;
+  margin-bottom: 1.927vw;
+}
+
+.largeRow {
+  padding-bottom: 2.969vw;
+  height: 11.182vw;
+  margin-bottom: 5.729vw;
+}

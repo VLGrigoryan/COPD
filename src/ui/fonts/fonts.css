@@ -1,0 +1,64 @@
+/* Noto Sans */
+@font-face {
+  src: url(./NotoSans-Regular.woff2) format('woff2'),
+       url(./NotoSans-Regular.woff) format('woff');
+  font-family: 'Noto Sans';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  src: url(./NotoSans-Bold.woff2) format('woff2'),
+       url(./NotoSans-Bold.woff) format('woff');
+  font-family: 'Noto Sans';
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  src: url(./NotoSans-Medium.woff2) format('woff2'),
+       url(./NotoSans-Medium.woff) format('woff');
+  font-family: 'Noto Sans';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  src: url(./NotoSans-Black.woff2) format('woff2'),
+       url(./NotoSans-Black.woff) format('woff');
+  font-family: 'Noto Sans';
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Alternative for Century Gothic */
+@font-face {
+  src: url(./CenturyGothic-Regular.woff2) format('woff2'),
+       url(./CenturyGothic-Regular.woff) format('woff');
+  font-family: 'Century Gothic';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  src: url(./CenturyGothic-Bold.woff2) format('woff2'),
+       url(./CenturyGothic-Bold.woff) format('woff');
+  font-family: 'Century Gothic';
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  src: url(./CenturyGothic-Black.woff2) format('woff2'),
+       url(./CenturyGothic-Black.woff) format('woff');
+  font-family: 'Century Gothic';
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}

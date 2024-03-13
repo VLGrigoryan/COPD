@@ -1,0 +1,100 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  position: relative;
+  padding: 1.719vw 1vw;
+  gap: 0.781vw;
+  box-shadow: 0px 0px 25px rgba(142, 160, 173, 0.35);
+  border-radius: 20px;
+  background: var(--light-blue-background);
+}
+
+.smallCardContainer {
+  max-width: 21.354vw;
+}
+
+.smallCardContainer:nth-child(3) {
+  display: flex;
+  /* padding-bottom: 60px; */
+  justify-content: flex-start;
+  gap: 2.865vw;
+}
+
+.largeCardContainer {
+  width: 32.813vw;
+  height: 20.4vw;
+  text-align: left;
+  padding: 1.198vw 2.1vw;
+  margin-bottom: 1.771vw;
+}
+
+.connectingLine {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  width: 104%;
+  height: 1.719vw;
+  border: 2px solid #01457A;
+  border-top: 0;
+}
+
+.polygon {
+  border-right: 30px solid var(--text-primary-color);
+  border-top: 30px solid transparent;
+  transform: rotate(45deg);
+  position: absolute;
+  top: 52%;
+  border-right: 30px solid var(--text-primary-color);
+  border-top: 30px solid transparent;
+  transform: rotate(45deg);
+  position: absolute;
+  top: 55%;
+  left: 48%;
+}
+
+.card-container {
+  display: flex;
+  align-items: center;
+  position: relative;
+  justify-content: center;
+}
+
+.cardHeader {
+  width: 100%;
+}
+
+.number {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  background: var(--icon-background);
+  border-radius: 100px;
+  text-align: center;
+  color: var(--text-primary-color);
+  width: 4.167vw;
+  height: 4.167vw;
+  left: 214px;
+  top: 95px;
+}
+
+.icon {
+  width: 4.167vw;
+  height: 4.167vw;
+  margin-bottom: 25px;
+}
+
+.tag {
+  margin-top: 55px;
+}
+
+.title {
+  font-weight: 700;
+}
+
+.iconContainer {
+  width: 87%;
+  display: block;
+}

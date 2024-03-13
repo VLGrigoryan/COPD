@@ -1,0 +1,12 @@
+.content {
+  display: flex;
+  min-height: 912px;
+   /* max-width: 1380px; */
+  justify-content: space-between;
+  /* margin: 140px auto; */
+  gap: 16px;
+  /* width: calc(78% - 60px); */
+  /* background-image: url(../../images/pageBackground.svg);
+  background-size: 97%;
+  background-repeat: no-repeat; */
+}

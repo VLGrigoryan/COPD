@@ -1,0 +1,53 @@
+.container {
+  /* column-gap: 20px;
+  row-gap: 32px; */
+  /* text-align: center;
+  display: flex;
+  flex-direction: column; */
+  text-align: center;
+  width: 100%;
+}
+
+.imageContainer {
+ /* max-width: 100%; */
+}
+
+.image {}
+
+
+.description {
+  text-align: left;
+  margin-bottom: 1.35vw;
+  letter-spacing: -0.01vw;
+
+}
+
+.title {
+  margin-bottom: 1.35vw;
+  margin-top: 2vw;
+ }
+
+.card {
+  background-color: var(--small-card-background);
+  width: 100%;
+  max-height: 468px;
+  border-radius: 20px;
+  padding: 30px 0 30px 0;
+  gap: 15px;
+  list-style-type: none;
+  border-radius: 20px;
+}
+
+.cardList {
+  display: flex;
+  padding: 0;
+  justify-content: space-between;
+  gap: auto;
+  column-gap: 51px;
+}
+
+.cardTitle {
+  font-size: 5vw;
+  line-height: 7.813vw;
+
+}
